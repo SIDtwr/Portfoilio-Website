@@ -96,12 +96,16 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Ask your customers to be part of the solution, and don't view them as part of the problem.",
+        "name":"Alan Weiss, Author \"Million Dollar Consulting\""
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Strive not to be a success, but rather to be of value.",
+        "name":"Albert Einstein"
+      },
+      {
+        "description":"I like to listen. I have learned a great deal from listening carefully. Most people never listen.",
+        "name":"Ernest Hemingway, Author and Journalist"
       }
     ]
   }
